@@ -1,0 +1,8 @@
+rules:
+  - id: 1
+    target: README.md
+    source:
+      - main.go
+    entries:
+      - path: main.go
+        checksum: 1e707079a1e4584d03344112bd51d70bd14fc029
